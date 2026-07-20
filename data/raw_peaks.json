@@ -1,0 +1,1483 @@
+{
+    "data": [
+        {
+            "id": "black-peak",
+            "name": "Black Peak",
+            "alternate_names": [
+                "Kalanag",
+                "Kala Nag"
+            ],
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Bandarpunch",
+            "altitude_m": 6387,
+            "range": "Bandarpunch Massif",
+            "region": "Uttarakhand",
+            "country": "India",
+            "district": "Uttarkashi",
+            "nearest_town": "Sankri",
+            "accessible_from": [
+                "Dehradun"
+            ],
+            "coordinates": {
+                "lat": 31.0267,
+                "lng": 78.5714
+            },
+            "technical_grade": "AD-",
+            "imf_band": "<6500",
+            "imf_royalty_usd_party_of_2": 500,
+            "imf_listed": true,
+            "open_peak": true,
+            "inner_line_permit_required": false,
+            "best_months": [
+                "May",
+                "June",
+                "September",
+                "October"
+            ],
+            "typical_duration_days": 15,
+            "nights_above_5000m": 5,
+            "operator_cost_inr_band": [
+                80000,
+                120000
+            ],
+            "bmc_recommended_first_peak": true,
+            "first_6000er_filter_pass": true,
+            "tvt_operated": true,
+            "tvt_url": "/expeditions/black-peak/",
+            "gpx_available": false,
+            "key_skills": [
+                "Crampon technique",
+                "Fixed-rope ascent (75ft ice wall, ~70°)",
+                "Glacier travel",
+                "Self-arrest"
+            ],
+            "roadhead": "Sankri, via Dehradun",
+            "basecamp_m": 4050,
+            "basecamp_m_note": "Operator/brochure figure 4,050m (used across the TVT Black Peak pages); external sources range 3,500-4,100m. verified 2026-06-24.",
+            "basecamp_name": "Kyarkoti",
+            "first_ascent_year": 1955,
+            "first_ascent_party": "Jack Gibson with students of The Doon School",
+            "summary": "A 6,387m peak in the Garhwal Himalayas with a single steep ice wall on summit day. Challenging enough to be a real test, accessible enough to be a first 6,000er for a fit BMC graduate. First climbed in 1955 by Jack Gibson and Doon School students — one of the earliest civilian-led Indian Himalayan first ascents.",
+            "last_verified": "2026-04-30",
+            "references": [
+                {
+                    "label": "PeakVisor — Kalanag",
+                    "url": "https://peakvisor.com/peak/kalanag.html"
+                },
+                {
+                    "label": "Wikipedia — Bandarpunch",
+                    "url": "https://en.wikipedia.org/wiki/Bandarpunch"
+                },
+                {
+                    "label": "IMF open peaks",
+                    "url": "https://www.indmount.org/IMF/getPeaks?type=op"
+                }
+            ],
+            "hero_image": "/images/black-peak/black-peak-summit-pyramid-alpenglow.jpg"
+        },
+        {
+            "id": "kang-yatse-2",
+            "name": "Kang Yatse II",
+            "alternate_names": [
+                "Kang Yatse 2",
+                "Kangyatse II",
+                "Kang Yatze II"
+            ],
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Kang_Yatse",
+            "altitude_m": 6250,
+            "altitude_m_note": "Operator-canonical figure. Wikipedia and AAJ list ~6,200m; we use the more widely-published Indian-operator figure of 6,250m as the bookable expedition target.",
+            "range": "Zanskar Range (Markha-Hemis sector)",
+            "region": "Ladakh",
+            "country": "India",
+            "district": "Leh",
+            "nearest_town": "Leh",
+            "accessible_from": [
+                "Leh"
+            ],
+            "coordinates": {
+                "lat": 33.7482,
+                "lng": 77.5568
+            },
+            "technical_grade": "PD+",
+            "imf_band": "<6500",
+            "imf_royalty_usd_party_of_2": 500,
+            "imf_listed": true,
+            "open_peak": true,
+            "inner_line_permit_required": false,
+            "best_months": [
+                "July",
+                "August",
+                "September"
+            ],
+            "typical_duration_days": 10,
+            "nights_above_5000m": 4,
+            "operator_cost_inr_band": [
+                70000,
+                110000
+            ],
+            "bmc_recommended_first_peak": true,
+            "first_6000er_filter_pass": true,
+            "tvt_operated": true,
+            "tvt_url": "/expeditions/kangyatse-2/",
+            "gpx_available": false,
+            "key_skills": [
+                "Crampon technique",
+                "Steep snow (40-45°)",
+                "Glacier travel",
+                "Acclimatization across Markha Valley"
+            ],
+            "roadhead": "Chilling, via Leh",
+            "basecamp_m": 4900,
+            "basecamp_name": "Nimaling",
+            "first_ascent_year": null,
+            "first_ascent_party": null,
+            "summary": "The most popular non-technical 6,000er in Ladakh. Reached on the back of the Markha Valley trek, which doubles as acclimatization. Snow-slope summit day, no major rock or ice. Part of the Kang Yatse massif (KY I 6,400m, KY II 6,250m, KY III 6,280m, KY IV 6,130m); KY II is the standard commercial objective.",
+            "last_verified": "2026-04-30",
+            "references": [
+                {
+                    "label": "Wikipedia — Kang Yatse",
+                    "url": "https://en.wikipedia.org/wiki/Kang_Yatse"
+                },
+                {
+                    "label": "AAJ — Kang Yatse Group",
+                    "url": "https://publications.americanalpineclub.org/"
+                }
+            ],
+            "hero_image": "/images/kangyatse-2/kangyatse-2-markha-valley-trail-trekkers.jpg"
+        },
+        {
+            "id": "kang-yatse-1",
+            "name": "Kang Yatse I",
+            "alternate_names": [
+                "Kang Yatse 1",
+                "Kangyatse I",
+                "Kang Yatze I"
+            ],
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Kang_Yatse",
+            "altitude_m": 6400,
+            "range": "Zanskar Range (Markha-Hemis sector)",
+            "region": "Ladakh",
+            "country": "India",
+            "district": "Leh",
+            "nearest_town": "Leh",
+            "accessible_from": [
+                "Leh"
+            ],
+            "coordinates": {
+                "lat": 33.7482,
+                "lng": 77.5568
+            },
+            "technical_grade": "AD",
+            "imf_band": "<6500",
+            "imf_royalty_usd_party_of_2": 500,
+            "imf_listed": true,
+            "open_peak": true,
+            "inner_line_permit_required": false,
+            "best_months": [
+                "July",
+                "August",
+                "September"
+            ],
+            "typical_duration_days": 14,
+            "nights_above_5000m": 6,
+            "operator_cost_inr_band": [
+                120000,
+                180000
+            ],
+            "bmc_recommended_first_peak": false,
+            "first_6000er_filter_pass": false,
+            "tvt_operated": true,
+            "tvt_url": "/expeditions/kangyatse-1/",
+            "gpx_available": false,
+            "key_skills": [
+                "Mixed climbing",
+                "Steep ice (50°+)",
+                "Multi-pitch fixed lines",
+                "Cornice navigation"
+            ],
+            "roadhead": "Chilling, via Leh",
+            "basecamp_m": 4900,
+            "basecamp_name": "Nimaling",
+            "first_ascent_year": null,
+            "first_ascent_party": null,
+            "summary": "The technical sister of KY II. Mixed rock-and-ice ridge with a serious summit day. Suitable as a second 6,000er, not a first.",
+            "last_verified": "2026-04-30",
+            "references": [
+                {
+                    "label": "Wikipedia — Kang Yatse",
+                    "url": "https://en.wikipedia.org/wiki/Kang_Yatse"
+                }
+            ],
+            "hero_image": "/images/kangyatse-1/kangyatse-1-summit-pyramid-sunburst.jpg"
+        },
+        {
+            "id": "dzo-jongo-east",
+            "name": "Dzo Jongo East",
+            "alternate_names": [
+                "Dzo Jongo (E)",
+                "Dzo Jongo"
+            ],
+            "wikipedia_url": null,
+            "altitude_m": 6217,
+            "altitude_m_note": "Sources disagree: AAJ canonical 6,200m, Bikat 6,240m, Shikhar 6,218m. We use 6,217m (operator median).",
+            "range": "Zanskar Range (Markha-Hemis sector, Nimaling)",
+            "region": "Ladakh",
+            "country": "India",
+            "district": "Leh",
+            "nearest_town": "Leh",
+            "accessible_from": [
+                "Leh"
+            ],
+            "coordinates": {
+                "lat": 33.7333,
+                "lng": 77.5167
+            },
+            "coordinates_note": "Approximate; not surveyed against an authoritative source.",
+            "technical_grade": "PD",
+            "imf_band": "<6500",
+            "imf_royalty_usd_party_of_2": 500,
+            "imf_listed": true,
+            "open_peak": true,
+            "inner_line_permit_required": false,
+            "best_months": [
+                "July",
+                "August",
+                "September"
+            ],
+            "typical_duration_days": 10,
+            "nights_above_5000m": 4,
+            "operator_cost_inr_band": [
+                70000,
+                110000
+            ],
+            "bmc_recommended_first_peak": true,
+            "first_6000er_filter_pass": true,
+            "tvt_operated": true,
+            "tvt_url": "/expeditions/dzo-jongo-east/",
+            "gpx_available": false,
+            "key_skills": [
+                "Crampon technique",
+                "Glacier travel",
+                "Long snow walk to summit"
+            ],
+            "roadhead": "Chilling, via Leh",
+            "basecamp_m": 4800,
+            "basecamp_name": "Nimaling area",
+            "first_ascent_year": null,
+            "first_ascent_party": null,
+            "summary": "A long, walkable snow ridge with low technical demands. Often paired with Markha Valley for acclimatization. Quietly one of the friendliest 6,000ers in India.",
+            "last_verified": "2026-04-30",
+            "references": [
+                {
+                    "label": "AAJ 2011 — Divyesh Muni on Dzo Jongo",
+                    "url": "https://publications.americanalpineclub.org/"
+                }
+            ],
+            "hero_image": "/images/dzo-jongo-east/dzo-jongo-east-zanskar-sunset-panorama.jpg"
+        },
+        {
+            "id": "ut-kangri",
+            "name": "UT Kangri",
+            "alternate_names": [],
+            "wikipedia_url": null,
+            "altitude_m": 6070,
+            "range": "Stok Range",
+            "region": "Ladakh",
+            "country": "India",
+            "district": "Leh",
+            "nearest_town": "Leh",
+            "accessible_from": [
+                "Leh"
+            ],
+            "coordinates": {
+                "lat": 33.93,
+                "lng": 77.49
+            },
+            "coordinates_note": "Approximate; sourced from operator route descriptions, not surveyed.",
+            "technical_grade": "PD",
+            "imf_band": "<6500",
+            "imf_royalty_usd_party_of_2": 500,
+            "imf_listed": true,
+            "open_peak": true,
+            "inner_line_permit_required": false,
+            "best_months": [
+                "July",
+                "August",
+                "September"
+            ],
+            "typical_duration_days": 9,
+            "nights_above_5000m": 3,
+            "operator_cost_inr_band": [
+                60000,
+                95000
+            ],
+            "bmc_recommended_first_peak": true,
+            "first_6000er_filter_pass": true,
+            "tvt_operated": true,
+            "tvt_url": null,
+            "gpx_available": false,
+            "key_skills": [
+                "Crampon technique",
+                "Snow walk to summit",
+                "Glacier travel"
+            ],
+            "roadhead": "Stok / Matho, via Leh",
+            "basecamp_m": 5000,
+            "basecamp_name": "UT Kangri base",
+            "first_ascent_year": null,
+            "first_ascent_party": null,
+            "summary": "The de facto Stok Kangri replacement post-2020. A 6,070m Ladakh peak in the Stok Range climbed via a snow-walk summit day from a base camp around 5,000m. Multiple Indian operators (Bikat, White Expeditions, Kahlur, Himalayan High, WhiteMagic) market it as 'the easiest 6,000er in India'. Genuine IMF summit certificate at the lowest commitment of any open Ladakhi 6,000er.",
+            "last_verified": "2026-04-30",
+            "references": [
+                {
+                    "label": "Bikat — UT Kangri",
+                    "url": "https://www.bikatadventures.com/"
+                },
+                {
+                    "label": "Himalayan High — UT Kangri",
+                    "url": "https://himalayanhigh.in/ut-kangri-peak-ladakh"
+                },
+                {
+                    "label": "White Expeditions — UT Kangri",
+                    "url": "https://www.whiteexpeditions.com/"
+                }
+            ],
+            "hero_image": null
+        },
+        {
+            "id": "yunam-peak",
+            "name": "Yunam Peak",
+            "alternate_names": [
+                "Mt Yunam"
+            ],
+            "wikipedia_url": null,
+            "altitude_m": 6111,
+            "range": "Great Himalayan Range",
+            "region": "Lahaul, Himachal Pradesh",
+            "country": "India",
+            "district": "Lahaul and Spiti",
+            "nearest_town": "Manali",
+            "accessible_from": [
+                "Manali",
+                "Leh"
+            ],
+            "coordinates": {
+                "lat": 32.8193,
+                "lng": 77.4046
+            },
+            "technical_grade": "PD",
+            "imf_band": "<6500",
+            "imf_royalty_usd_party_of_2": 500,
+            "imf_listed": true,
+            "open_peak": true,
+            "inner_line_permit_required": false,
+            "best_months": [
+                "June",
+                "July",
+                "August",
+                "September"
+            ],
+            "typical_duration_days": 8,
+            "nights_above_5000m": 3,
+            "operator_cost_inr_band": [
+                55000,
+                80000
+            ],
+            "bmc_recommended_first_peak": true,
+            "first_6000er_filter_pass": true,
+            "tvt_operated": true,
+            "tvt_url": null,
+            "gpx_available": false,
+            "key_skills": [
+                "Crampon technique",
+                "Snow walk to summit",
+                "Roadhead-to-basecamp in one day"
+            ],
+            "roadhead": "Bharatpur (Manali-Leh highway, near Sarchu)",
+            "basecamp_m": 4900,
+            "basecamp_name": "Bharatpur",
+            "first_ascent_year": 1973,
+            "first_ascent_party": "Indo-Japanese expedition (Y. Miyake / D.D. Dangwal)",
+            "summary": "The cheapest, fastest, lowest-technical-bar 6,000er in India. Roadhead at Bharatpur on the Manali-Leh highway means basecamp is reached in hours, not days. Genuine 6,000m summit certificate from the IMF without the cost or commitment of a full expedition.",
+            "last_verified": "2026-04-30",
+            "references": [
+                {
+                    "label": "PeakVisor — Yunam",
+                    "url": "https://peakvisor.com/peak/yunam.html"
+                }
+            ],
+            "hero_image": "/images/yunam-peak/yunam-peak-summit-tvt-flag.jpg"
+        },
+        {
+            "id": "kanamo-peak",
+            "name": "Kanamo Peak",
+            "alternate_names": [],
+            "wikipedia_url": null,
+            "altitude_m": 5964,
+            "altitude_m_note": "Sources disagree: Wikipedia (Kibber article) cites 5,998m; PeakVisor 6,041m; operators 5,964–5,974m. We use 5,964m as the most widely-published commercial figure.",
+            "range": "Spiti Himalaya",
+            "region": "Spiti, Himachal Pradesh",
+            "country": "India",
+            "district": "Lahaul and Spiti",
+            "nearest_town": "Kaza",
+            "accessible_from": [
+                "Manali"
+            ],
+            "coordinates": {
+                "lat": 32.3685,
+                "lng": 78.0936
+            },
+            "technical_grade": "F+",
+            "imf_band": null,
+            "imf_royalty_usd_party_of_2": null,
+            "imf_listed": false,
+            "imf_listed_note": "Not on the IMF open-peaks list (queried indmount.org/IMF/getPeaks 2026-04-30); climbed as a trekking peak without IMF royalty.",
+            "open_peak": true,
+            "inner_line_permit_required": false,
+            "best_months": [
+                "June",
+                "July",
+                "August",
+                "September"
+            ],
+            "typical_duration_days": 8,
+            "nights_above_5000m": 2,
+            "operator_cost_inr_band": [
+                40000,
+                65000
+            ],
+            "bmc_recommended_first_peak": true,
+            "first_6000er_filter_pass": true,
+            "first_6000er_filter_note": "Just under 6,000m. Often picked as a confidence-builder before a true 6,000er.",
+            "tvt_operated": false,
+            "tvt_url": null,
+            "gpx_available": false,
+            "key_skills": [
+                "Walking on scree at altitude",
+                "Basic crampon use",
+                "Long summit day"
+            ],
+            "roadhead": "Kibber (Spiti)",
+            "basecamp_m": 4900,
+            "basecamp_name": "Kanamo base",
+            "first_ascent_year": null,
+            "first_ascent_party": null,
+            "summary": "The classic 'almost 6,000er' walk-up from Kibber village. Non-technical, no glacier, one long summit day. Best entry point to Indian high-altitude climbing for a fit BMC graduate not yet ready for an ice wall. Climbed as a trekking peak; not on the IMF open list.",
+            "last_verified": "2026-04-30",
+            "references": [
+                {
+                    "label": "Wikipedia — Kibber (mentions Kanamo)",
+                    "url": "https://en.wikipedia.org/wiki/Kibber"
+                },
+                {
+                    "label": "PeakVisor — Kanamo",
+                    "url": "https://peakvisor.com/peak/kanamo.html"
+                }
+            ],
+            "hero_image": null
+        },
+        {
+            "id": "mentok-kangri-ii",
+            "name": "Mentok Kangri II",
+            "alternate_names": [
+                "Mentok II"
+            ],
+            "wikipedia_url": null,
+            "altitude_m": 6250,
+            "altitude_m_note": "Naming of Mentok I vs II varies between sources; we use the operator-popular convention where Mentok II = 6,250m (Bikat, Kahlur, WhiteMagic).",
+            "range": "Mentok Range",
+            "region": "Ladakh (Tso Moriri)",
+            "country": "India",
+            "district": "Leh",
+            "nearest_town": "Karzok",
+            "accessible_from": [
+                "Leh"
+            ],
+            "coordinates": {
+                "lat": 32.9167,
+                "lng": 78.3333
+            },
+            "coordinates_note": "Operator-derived; not surveyed.",
+            "technical_grade": "PD",
+            "imf_band": null,
+            "imf_royalty_usd_party_of_2": null,
+            "imf_listed": false,
+            "imf_listed_note": "Not on the IMF open-peaks list as queried 2026-04-30.",
+            "open_peak": true,
+            "inner_line_permit_required": true,
+            "inner_line_permit_note": "Tso Moriri sector. ILP for non-Ladakhi Indians, PAP for foreigners.",
+            "best_months": [
+                "July",
+                "August",
+                "September"
+            ],
+            "typical_duration_days": 10,
+            "nights_above_5000m": 4,
+            "operator_cost_inr_band": [
+                80000,
+                120000
+            ],
+            "bmc_recommended_first_peak": true,
+            "first_6000er_filter_pass": true,
+            "tvt_operated": true,
+            "tvt_url": null,
+            "gpx_available": false,
+            "key_skills": [
+                "Crampon technique",
+                "Glacier travel",
+                "Long high-camp rotation"
+            ],
+            "roadhead": "Karzok, via Leh",
+            "basecamp_m": 5100,
+            "basecamp_name": "Mentok base",
+            "first_ascent_year": null,
+            "first_ascent_party": null,
+            "summary": "A shapely 6,250m summit overlooking Tso Moriri lake. Less crowded than the Markha-Hemis peaks; remote and high-yield for first-timers comfortable with a longer drive.",
+            "last_verified": "2026-04-30",
+            "references": [],
+            "hero_image": "/images/mentok-kangri/mentok-kangri-summit-tso-moriri-prayer-flags.jpg"
+        },
+        {
+            "id": "mentok-kangri-i",
+            "name": "Mentok Kangri I",
+            "alternate_names": [
+                "Mentok I"
+            ],
+            "wikipedia_url": null,
+            "altitude_m": 6277,
+            "altitude_m_note": "Operator sources cite 6,261–6,310m; not surveyed. We use 6,277m as the most-published figure.",
+            "range": "Mentok Range",
+            "region": "Ladakh (Tso Moriri)",
+            "country": "India",
+            "district": "Leh",
+            "nearest_town": "Karzok",
+            "accessible_from": [
+                "Leh"
+            ],
+            "coordinates": {
+                "lat": 32.9167,
+                "lng": 78.35
+            },
+            "coordinates_note": "Operator-derived; not surveyed.",
+            "technical_grade": "PD+",
+            "imf_band": null,
+            "imf_royalty_usd_party_of_2": null,
+            "imf_listed": false,
+            "imf_listed_note": "Not on the IMF open-peaks list as queried 2026-04-30.",
+            "open_peak": true,
+            "inner_line_permit_required": true,
+            "best_months": [
+                "July",
+                "August",
+                "September"
+            ],
+            "typical_duration_days": 11,
+            "nights_above_5000m": 4,
+            "operator_cost_inr_band": [
+                85000,
+                130000
+            ],
+            "bmc_recommended_first_peak": true,
+            "first_6000er_filter_pass": true,
+            "tvt_operated": true,
+            "tvt_url": null,
+            "gpx_available": false,
+            "key_skills": [
+                "Crampon technique",
+                "Glacier travel",
+                "Steep snow (40-45°)"
+            ],
+            "roadhead": "Karzok, via Leh",
+            "basecamp_m": 5100,
+            "basecamp_name": "Mentok base",
+            "first_ascent_year": null,
+            "first_ascent_party": null,
+            "summary": "The slightly higher and slightly steeper sibling of Mentok II, often combined with Mentok II in a single rotation.",
+            "last_verified": "2026-04-30",
+            "references": [],
+            "hero_image": null
+        },
+        {
+            "id": "deo-tibba",
+            "name": "Deo Tibba",
+            "alternate_names": [],
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Deo_Tibba",
+            "altitude_m": 6001,
+            "range": "Pir Panjal",
+            "region": "Manali, Himachal Pradesh",
+            "country": "India",
+            "district": "Kullu",
+            "nearest_town": "Manali",
+            "accessible_from": [
+                "Manali"
+            ],
+            "coordinates": {
+                "lat": 32.1953,
+                "lng": 77.3825
+            },
+            "technical_grade": "PD+",
+            "imf_band": "<6500",
+            "imf_royalty_usd_party_of_2": 500,
+            "imf_listed": true,
+            "open_peak": true,
+            "inner_line_permit_required": false,
+            "best_months": [
+                "May",
+                "June",
+                "September",
+                "October"
+            ],
+            "typical_duration_days": 11,
+            "nights_above_5000m": 4,
+            "operator_cost_inr_band": [
+                70000,
+                110000
+            ],
+            "bmc_recommended_first_peak": true,
+            "first_6000er_filter_pass": true,
+            "tvt_operated": true,
+            "tvt_url": null,
+            "gpx_available": false,
+            "key_skills": [
+                "Crampon technique",
+                "Glacier travel",
+                "Crevasse navigation",
+                "Final snow dome"
+            ],
+            "roadhead": "Khanol/Jagatsukh, via Manali",
+            "basecamp_m": 4400,
+            "basecamp_name": "Chika / Tainta",
+            "first_ascent_year": 1952,
+            "first_ascent_party": "J. de V. Graaff, Clare Graaff, Pasang Dawa Lama (NW Ridge from Duhangan Col)",
+            "summary": "A literal 6,001m — the lowest IMF-recognised 6,000er in India. Crevassed glacier and a final snow dome. Manali base means easy access; weather window is the main variable. First climbed in 1952 by the Graaffs and Pasang Dawa Lama.",
+            "last_verified": "2026-04-30",
+            "references": [
+                {
+                    "label": "Wikipedia — Deo Tibba",
+                    "url": "https://en.wikipedia.org/wiki/Deo_Tibba"
+                },
+                {
+                    "label": "IMF open peaks",
+                    "url": "https://www.indmount.org/IMF/getPeaks?type=op"
+                }
+            ],
+            "hero_image": null
+        },
+        {
+            "id": "friendship-peak",
+            "name": "Friendship Peak",
+            "alternate_names": [],
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mount_Friendship",
+            "altitude_m": 5287,
+            "altitude_m_note": "Wikipedia gives 5,287m; many Indian operators round to 5,289m.",
+            "range": "Pir Panjal",
+            "region": "Manali, Himachal Pradesh",
+            "country": "India",
+            "district": "Kullu",
+            "nearest_town": "Manali",
+            "accessible_from": [
+                "Manali"
+            ],
+            "coordinates": {
+                "lat": 32.396,
+                "lng": 77.103
+            },
+            "technical_grade": "PD",
+            "imf_band": null,
+            "imf_royalty_usd_party_of_2": null,
+            "imf_listed": false,
+            "imf_listed_note": "Not currently on the IMF open-peaks list; climbed as a trekking peak.",
+            "open_peak": true,
+            "inner_line_permit_required": false,
+            "best_months": [
+                "May",
+                "June",
+                "September",
+                "October"
+            ],
+            "typical_duration_days": 8,
+            "nights_above_5000m": 2,
+            "operator_cost_inr_band": [
+                40000,
+                65000
+            ],
+            "bmc_recommended_first_peak": true,
+            "first_6000er_filter_pass": false,
+            "first_6000er_filter_note": "Sub-6,000m. Useful as a confidence-builder, not a true 6,000er objective.",
+            "tvt_operated": false,
+            "tvt_url": null,
+            "gpx_available": false,
+            "key_skills": [
+                "Crampon technique",
+                "Snow slope (35-40°)",
+                "Roped travel"
+            ],
+            "roadhead": "Solang Nala, via Manali",
+            "basecamp_m": 4250,
+            "basecamp_name": "Lady Leg",
+            "first_ascent_year": null,
+            "first_ascent_party": null,
+            "summary": "The most-searched climbing-peak keyword in Indian Google data. Sub-6,000m but covers most of the same skills. Often paired with Shitidhar in an 8-day window from Manali. Indian Army made the first winter ascent in January 2015.",
+            "last_verified": "2026-04-30",
+            "references": [
+                {
+                    "label": "Wikipedia — Mount Friendship",
+                    "url": "https://en.wikipedia.org/wiki/Mount_Friendship"
+                }
+            ],
+            "hero_image": null
+        },
+        {
+            "id": "shitidhar",
+            "name": "Shitidhar",
+            "alternate_names": [],
+            "wikipedia_url": null,
+            "altitude_m": 5250,
+            "altitude_m_note": "Sources vary 5,250–5,322m; not surveyed. We use the operator-canonical 5,250m.",
+            "range": "Pir Panjal",
+            "region": "Manali, Himachal Pradesh",
+            "country": "India",
+            "district": "Kullu",
+            "nearest_town": "Manali",
+            "accessible_from": [
+                "Manali"
+            ],
+            "coordinates": {
+                "lat": 32.3,
+                "lng": 77.2167
+            },
+            "coordinates_note": "Plausible neighbour of Friendship Peak (~1.5km west); not surveyed.",
+            "technical_grade": "PD",
+            "imf_band": null,
+            "imf_royalty_usd_party_of_2": null,
+            "imf_listed": false,
+            "imf_listed_note": "Not on the IMF open-peaks list as queried 2026-04-30.",
+            "open_peak": true,
+            "inner_line_permit_required": false,
+            "best_months": [
+                "May",
+                "June",
+                "September",
+                "October"
+            ],
+            "typical_duration_days": 7,
+            "nights_above_5000m": 2,
+            "operator_cost_inr_band": [
+                35000,
+                60000
+            ],
+            "bmc_recommended_first_peak": true,
+            "first_6000er_filter_pass": false,
+            "first_6000er_filter_note": "Sub-6,000m training peak typically combined with Friendship Peak.",
+            "tvt_operated": false,
+            "tvt_url": null,
+            "gpx_available": false,
+            "key_skills": [
+                "Crampon technique",
+                "Snow slope",
+                "Roped travel"
+            ],
+            "roadhead": "Solang Nala, via Manali",
+            "basecamp_m": 4250,
+            "basecamp_name": "Lady Leg",
+            "first_ascent_year": null,
+            "first_ascent_party": null,
+            "summary": "Friendship Peak's neighbour. Identical access, identical skills, slightly easier summit day. Almost always done as a duo with Friendship.",
+            "last_verified": "2026-04-30",
+            "references": [],
+            "hero_image": null
+        },
+        {
+            "id": "hanuman-tibba",
+            "name": "Hanuman Tibba",
+            "alternate_names": [],
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hanuman_Tibba",
+            "altitude_m": 5982,
+            "altitude_m_note": "Wikipedia and most operators cite 5,982m. Some sources circulate 5,932m and 5,883m.",
+            "range": "Dhauladhar Range",
+            "region": "Manali, Himachal Pradesh",
+            "country": "India",
+            "district": "Kangra",
+            "nearest_town": "Manali",
+            "accessible_from": [
+                "Manali"
+            ],
+            "coordinates": {
+                "lat": 32.336,
+                "lng": 77.051
+            },
+            "technical_grade": "AD-",
+            "imf_band": "<6500",
+            "imf_royalty_usd_party_of_2": 500,
+            "imf_listed": true,
+            "open_peak": true,
+            "inner_line_permit_required": false,
+            "best_months": [
+                "May",
+                "June",
+                "September",
+                "October"
+            ],
+            "typical_duration_days": 12,
+            "nights_above_5000m": 4,
+            "operator_cost_inr_band": [
+                85000,
+                130000
+            ],
+            "bmc_recommended_first_peak": false,
+            "first_6000er_filter_pass": false,
+            "tvt_operated": false,
+            "tvt_url": null,
+            "gpx_available": false,
+            "key_skills": [
+                "Mixed climbing",
+                "Steep ice (50°)",
+                "Ridge traverses"
+            ],
+            "roadhead": "Beas Kund area, via Manali",
+            "basecamp_m": 4500,
+            "basecamp_name": "Beas Kund",
+            "first_ascent_year": null,
+            "first_ascent_party": null,
+            "summary": "Sub-6,000m but technically harder than most beginner 6,000ers — a Dhauladhar peak with sustained mixed climbing on the standard route. Suitable as a second or third climb, not a first.",
+            "last_verified": "2026-04-30",
+            "references": [
+                {
+                    "label": "Wikipedia — Hanuman Tibba",
+                    "url": "https://en.wikipedia.org/wiki/Hanuman_Tibba"
+                },
+                {
+                    "label": "PeakVisor — Hanuman Tibba",
+                    "url": "https://peakvisor.com/peak/hanuman-tibba.html"
+                }
+            ],
+            "hero_image": null
+        },
+        {
+            "id": "rudugaira",
+            "name": "Rudugaira",
+            "alternate_names": [
+                "Mt Rudugaira",
+                "Rudragaira"
+            ],
+            "wikipedia_url": null,
+            "altitude_m": 5819,
+            "range": "Garhwal Himalayas",
+            "region": "Uttarakhand (Gangotri area)",
+            "country": "India",
+            "district": "Uttarkashi",
+            "nearest_town": "Gangotri",
+            "accessible_from": [
+                "Dehradun"
+            ],
+            "coordinates": {
+                "lat": 30.9333,
+                "lng": 78.9667
+            },
+            "coordinates_note": "Operator-derived; not surveyed against an authoritative source.",
+            "technical_grade": "PD",
+            "imf_band": "<6500",
+            "imf_royalty_usd_party_of_2": 500,
+            "imf_listed": true,
+            "open_peak": true,
+            "inner_line_permit_required": false,
+            "best_months": [
+                "May",
+                "June",
+                "September",
+                "October"
+            ],
+            "typical_duration_days": 9,
+            "nights_above_5000m": 3,
+            "operator_cost_inr_band": [
+                55000,
+                85000
+            ],
+            "bmc_recommended_first_peak": true,
+            "first_6000er_filter_pass": false,
+            "first_6000er_filter_note": "Sub-6,000m. Solid Gangotri-area training peak.",
+            "tvt_operated": false,
+            "tvt_url": null,
+            "gpx_available": false,
+            "key_skills": [
+                "Crampon technique",
+                "Snow slopes",
+                "Roped travel"
+            ],
+            "roadhead": "Gangotri, via Uttarkashi",
+            "basecamp_m": 4400,
+            "basecamp_name": "Rudugaira base",
+            "first_ascent_year": null,
+            "first_ascent_party": null,
+            "summary": "A friendly climbing peak in the Gangotri sector — the Garhwal answer to Friendship Peak. Often used by NIM Uttarkashi as a graduation climb.",
+            "last_verified": "2026-04-30",
+            "references": [],
+            "hero_image": null
+        },
+        {
+            "id": "cb-13",
+            "name": "CB-13",
+            "alternate_names": [
+                "Chandra Bhaga 13"
+            ],
+            "wikipedia_url": null,
+            "altitude_m": 6264,
+            "range": "Lahaul (Chandra-Bhaga group)",
+            "region": "Lahaul, Himachal Pradesh",
+            "country": "India",
+            "district": "Lahaul and Spiti",
+            "nearest_town": "Manali",
+            "accessible_from": [
+                "Manali"
+            ],
+            "coordinates": {
+                "lat": 32.351,
+                "lng": 77.556
+            },
+            "technical_grade": "PD+",
+            "imf_band": "<6500",
+            "imf_royalty_usd_party_of_2": 500,
+            "imf_listed": true,
+            "open_peak": true,
+            "inner_line_permit_required": false,
+            "best_months": [
+                "June",
+                "July",
+                "August",
+                "September"
+            ],
+            "typical_duration_days": 14,
+            "nights_above_5000m": 5,
+            "operator_cost_inr_band": [
+                90000,
+                140000
+            ],
+            "bmc_recommended_first_peak": true,
+            "first_6000er_filter_pass": true,
+            "tvt_operated": true,
+            "tvt_url": null,
+            "gpx_available": false,
+            "key_skills": [
+                "Crampon technique",
+                "Crevassed glacier travel",
+                "Ridge climbing"
+            ],
+            "roadhead": "Batal, via Manali",
+            "basecamp_m": 4700,
+            "basecamp_name": "CB base camp",
+            "first_ascent_year": null,
+            "first_ascent_party": null,
+            "summary": "Lahaul's quiet 6,000er in the Chandra-Bhaga group. Less traffic than Ladakh peaks; longer approach but a fair first 6,000er for fit BMC graduates with glacier experience.",
+            "last_verified": "2026-04-30",
+            "references": [
+                {
+                    "label": "PeakVisor — CB-13",
+                    "url": "https://peakvisor.com/peak/cb-13.html"
+                }
+            ],
+            "hero_image": null
+        },
+        {
+            "id": "cb-14",
+            "name": "CB-14",
+            "alternate_names": [
+                "Chandra Bhaga 14"
+            ],
+            "wikipedia_url": null,
+            "altitude_m": 6078,
+            "range": "Lahaul (Chandra-Bhaga group)",
+            "region": "Lahaul, Himachal Pradesh",
+            "country": "India",
+            "district": "Lahaul and Spiti",
+            "nearest_town": "Manali",
+            "accessible_from": [
+                "Manali"
+            ],
+            "coordinates": {
+                "lat": 32.371,
+                "lng": 77.567
+            },
+            "technical_grade": "PD",
+            "imf_band": "<6500",
+            "imf_royalty_usd_party_of_2": 500,
+            "imf_listed": true,
+            "open_peak": true,
+            "inner_line_permit_required": false,
+            "best_months": [
+                "June",
+                "July",
+                "August",
+                "September"
+            ],
+            "typical_duration_days": 13,
+            "nights_above_5000m": 4,
+            "operator_cost_inr_band": [
+                85000,
+                130000
+            ],
+            "bmc_recommended_first_peak": true,
+            "first_6000er_filter_pass": true,
+            "tvt_operated": true,
+            "tvt_url": null,
+            "gpx_available": false,
+            "key_skills": [
+                "Crampon technique",
+                "Glacier travel",
+                "Snow slope summit"
+            ],
+            "roadhead": "Batal, via Manali",
+            "basecamp_m": 4700,
+            "basecamp_name": "CB base camp",
+            "first_ascent_year": null,
+            "first_ascent_party": null,
+            "summary": "Easier sibling of CB-13. Often climbed first as acclimatization on a CB-13 expedition.",
+            "last_verified": "2026-04-30",
+            "references": [
+                {
+                    "label": "PeakVisor — CB-14",
+                    "url": "https://peakvisor.com/peak/cb-14.html"
+                }
+            ],
+            "hero_image": null
+        },
+        {
+            "id": "indrasan",
+            "name": "Indrasan",
+            "alternate_names": [],
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Indrasan",
+            "altitude_m": 6221,
+            "range": "Pir Panjal",
+            "region": "Manali, Himachal Pradesh",
+            "country": "India",
+            "district": "Kullu",
+            "nearest_town": "Manali",
+            "accessible_from": [
+                "Manali"
+            ],
+            "coordinates": {
+                "lat": 32.213,
+                "lng": 77.397
+            },
+            "technical_grade": "AD",
+            "imf_band": "<6500",
+            "imf_royalty_usd_party_of_2": 500,
+            "imf_listed": true,
+            "open_peak": true,
+            "inner_line_permit_required": false,
+            "best_months": [
+                "May",
+                "June",
+                "September",
+                "October"
+            ],
+            "typical_duration_days": 14,
+            "nights_above_5000m": 5,
+            "operator_cost_inr_band": [
+                110000,
+                160000
+            ],
+            "bmc_recommended_first_peak": false,
+            "first_6000er_filter_pass": false,
+            "tvt_operated": false,
+            "tvt_url": null,
+            "gpx_available": false,
+            "key_skills": [
+                "Mixed climbing",
+                "Steep ice",
+                "Multi-pitch fixed lines"
+            ],
+            "roadhead": "Manali",
+            "basecamp_m": 4400,
+            "basecamp_name": "Tainta",
+            "first_ascent_year": 1962,
+            "first_ascent_party": "Kyoto University Alpine Club, Japan (13 October 1962)",
+            "summary": "Deo Tibba's serious neighbour and 'most difficult mountain to climb in the Pir Panjal range' per Wikipedia. AD-graded, low success rate. A strong second or third 6,000er, not a first.",
+            "last_verified": "2026-04-30",
+            "references": [
+                {
+                    "label": "Wikipedia — Indrasan",
+                    "url": "https://en.wikipedia.org/wiki/Indrasan"
+                },
+                {
+                    "label": "PeakVisor — Indrasan",
+                    "url": "https://peakvisor.com/peak/indrasan.html"
+                }
+            ],
+            "hero_image": null
+        },
+        {
+            "id": "bhrigupanth",
+            "name": "Bhrigupanth",
+            "alternate_names": [],
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Bhrigupanth",
+            "altitude_m": 6772,
+            "range": "Garhwal Himalayas (Gangotri group)",
+            "region": "Uttarakhand (Gangotri area)",
+            "country": "India",
+            "district": "Uttarkashi",
+            "nearest_town": "Gangotri",
+            "accessible_from": [
+                "Dehradun"
+            ],
+            "coordinates": {
+                "lat": 30.8806,
+                "lng": 79.0028
+            },
+            "technical_grade": "AD+",
+            "imf_band": "6501-7000",
+            "imf_royalty_usd_party_of_2": 700,
+            "imf_listed": true,
+            "open_peak": true,
+            "inner_line_permit_required": false,
+            "best_months": [
+                "May",
+                "June",
+                "September",
+                "October"
+            ],
+            "typical_duration_days": 18,
+            "nights_above_5000m": 7,
+            "operator_cost_inr_band": [
+                180000,
+                250000
+            ],
+            "bmc_recommended_first_peak": false,
+            "first_6000er_filter_pass": false,
+            "tvt_operated": false,
+            "tvt_url": null,
+            "gpx_available": false,
+            "key_skills": [
+                "Mixed climbing",
+                "Steep ice (55°+)",
+                "Cornice work"
+            ],
+            "roadhead": "Gangotri, via Uttarkashi",
+            "basecamp_m": 4500,
+            "basecamp_name": "Kedar Tal",
+            "first_ascent_year": 1980,
+            "first_ascent_party": "Arlene Blum's Indo-American Women's Expedition (south face)",
+            "summary": "Serious 6,772m peak in the Gangotri group. AMC-graduate territory, not a first 6,000er. First climbed by Arlene Blum's Indo-American Women's Expedition in 1980 via the south face.",
+            "last_verified": "2026-04-30",
+            "references": [
+                {
+                    "label": "Wikipedia — Bhrigupanth",
+                    "url": "https://en.wikipedia.org/wiki/Bhrigupanth"
+                }
+            ],
+            "hero_image": null
+        },
+        {
+            "id": "shivling",
+            "name": "Shivling",
+            "alternate_names": [],
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Shivling_(Garhwal)",
+            "altitude_m": 6543,
+            "range": "Garhwal Himalayas (Gangotri group)",
+            "region": "Uttarakhand (Gangotri area)",
+            "country": "India",
+            "district": "Uttarkashi",
+            "nearest_town": "Gangotri",
+            "accessible_from": [
+                "Dehradun"
+            ],
+            "coordinates": {
+                "lat": 30.8804,
+                "lng": 79.0635
+            },
+            "technical_grade": "TD",
+            "technical_grade_note": "Shivling has a portfolio of routes, not a single grade. The 1974 west ridge (standard route) is closer to D / D+ with serac hazard; the 1981 East Pillar is TD+; the 1993 North Pillar is widely cited as ED. We use TD as a representative figure for the most-attempted commercial routes; treat as approximate.",
+            "imf_band": "6501-7000",
+            "imf_royalty_usd_party_of_2": 700,
+            "imf_listed": true,
+            "open_peak": true,
+            "inner_line_permit_required": false,
+            "best_months": [
+                "May",
+                "June",
+                "September",
+                "October"
+            ],
+            "typical_duration_days": 21,
+            "nights_above_5000m": 8,
+            "operator_cost_inr_band": [
+                250000,
+                400000
+            ],
+            "bmc_recommended_first_peak": false,
+            "first_6000er_filter_pass": false,
+            "tvt_operated": false,
+            "tvt_url": null,
+            "gpx_available": false,
+            "key_skills": [
+                "Big-wall mixed climbing",
+                "Multi-day ridge",
+                "Aid climbing on technical lines"
+            ],
+            "roadhead": "Gangotri, via Uttarkashi",
+            "basecamp_m": 4500,
+            "basecamp_name": "Tapovan",
+            "first_ascent_year": 1974,
+            "first_ascent_party": "ITBP team led by Hukam Singh (Laxman Singh, Ang Tharkey, Pemba Tharkey, Pasang Sherpa) — west ridge",
+            "summary": "One of the most beautiful and most technical peaks in the Indian Himalayas. First climbed in 1974 by an Indo-Tibetan Border Police team via the west ridge. Listed for context — this is not a first-time objective.",
+            "last_verified": "2026-04-30",
+            "references": [
+                {
+                    "label": "Wikipedia — Shivling (mountain)",
+                    "url": "https://en.wikipedia.org/wiki/Shivling_(Garhwal)"
+                }
+            ],
+            "hero_image": null
+        },
+        {
+            "id": "trisul-i",
+            "name": "Trisul I",
+            "alternate_names": [
+                "Trisul"
+            ],
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Trisul",
+            "altitude_m": 7120,
+            "range": "Garhwal Himalaya (Kumaon-Garhwal border)",
+            "region": "Uttarakhand",
+            "country": "India",
+            "district": "Chamoli",
+            "nearest_town": "Joshimath",
+            "accessible_from": [
+                "Dehradun",
+                "Kathgodam"
+            ],
+            "coordinates": {
+                "lat": 30.3128,
+                "lng": 79.7772
+            },
+            "technical_grade": "AD",
+            "imf_band": "7001+",
+            "imf_royalty_usd_party_of_2": 1000,
+            "imf_listed": true,
+            "open_peak": true,
+            "inner_line_permit_required": false,
+            "best_months": [
+                "May",
+                "June",
+                "September",
+                "October"
+            ],
+            "typical_duration_days": 24,
+            "nights_above_5000m": 10,
+            "operator_cost_inr_band": [
+                300000,
+                500000
+            ],
+            "bmc_recommended_first_peak": false,
+            "first_6000er_filter_pass": false,
+            "tvt_operated": false,
+            "tvt_url": null,
+            "gpx_available": false,
+            "key_skills": [
+                "7,000m altitude management",
+                "Long ridge climbing",
+                "Cornice navigation"
+            ],
+            "roadhead": "Lohajung / Wan, via Kathgodam",
+            "basecamp_m": 4900,
+            "basecamp_name": "Trisul base",
+            "first_ascent_year": 1907,
+            "first_ascent_party": "Tom Longstaff, Alexis Brocherel, Henri Brocherel, Karbir (12 June 1907) — first peak above 7,000m ever climbed",
+            "summary": "7,120m. Listed as a step-up reference for climbers who have already summited a beginner 6,000er. Historic significance: Tom Longstaff's 1907 ascent was the first time any peak above 7,000m was climbed by humans.",
+            "last_verified": "2026-04-30",
+            "references": [
+                {
+                    "label": "Wikipedia — Trisul",
+                    "url": "https://en.wikipedia.org/wiki/Trisul"
+                }
+            ],
+            "hero_image": null
+        },
+        {
+            "id": "satopanth",
+            "name": "Satopanth",
+            "alternate_names": [],
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Satopanth_Peak",
+            "altitude_m": 7075,
+            "altitude_m_note": "Wikipedia and modern surveys cite 7,084m; 7,075m is the legacy Survey of India figure used by Indian operators and IMF historical records. Both are in circulation.",
+            "range": "Garhwal Himalayas (Gangotri group)",
+            "region": "Uttarakhand",
+            "country": "India",
+            "district": "Chamoli",
+            "nearest_town": "Joshimath",
+            "accessible_from": [
+                "Dehradun"
+            ],
+            "coordinates": {
+                "lat": 30.8411,
+                "lng": 79.2136
+            },
+            "technical_grade": "AD+",
+            "imf_band": "7001+",
+            "imf_royalty_usd_party_of_2": 1000,
+            "imf_listed": true,
+            "open_peak": true,
+            "inner_line_permit_required": false,
+            "best_months": [
+                "May",
+                "June",
+                "September",
+                "October"
+            ],
+            "typical_duration_days": 25,
+            "nights_above_5000m": 12,
+            "operator_cost_inr_band": [
+                235000,
+                400000
+            ],
+            "bmc_recommended_first_peak": false,
+            "first_6000er_filter_pass": false,
+            "tvt_operated": false,
+            "tvt_url": null,
+            "gpx_available": false,
+            "key_skills": [
+                "7,000m altitude management",
+                "Heavily crevassed glacier travel",
+                "Long summit day"
+            ],
+            "roadhead": "Mana, via Joshimath",
+            "basecamp_m": 4400,
+            "basecamp_name": "Satopanth base",
+            "first_ascent_year": 1947,
+            "first_ascent_party": "André Roch, René Dittert, Alexandre Graven, Alfred Sutter (Swiss expedition, 1 August 1947)",
+            "summary": "7,075m. The most common 7,000er for Indian climbers stepping up from a 6,000er. First climbed in 1947 by a Swiss team. Listed as a context-only reference.",
+            "last_verified": "2026-04-30",
+            "references": [
+                {
+                    "label": "Wikipedia — Satopanth Peak",
+                    "url": "https://en.wikipedia.org/wiki/Satopanth_Peak"
+                }
+            ],
+            "hero_image": null
+        },
+        {
+            "id": "nun",
+            "name": "Nun",
+            "alternate_names": [
+                "Mt Nun"
+            ],
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Nun_Kun",
+            "altitude_m": 7135,
+            "range": "Greater Himalayas (Suru Valley)",
+            "region": "Ladakh (Suru Valley)",
+            "country": "India",
+            "district": "Kargil",
+            "nearest_town": "Kargil",
+            "accessible_from": [
+                "Srinagar",
+                "Leh"
+            ],
+            "coordinates": {
+                "lat": 33.98,
+                "lng": 76.0217
+            },
+            "technical_grade": "AD+",
+            "imf_band": "7001+",
+            "imf_royalty_usd_party_of_2": 1000,
+            "imf_listed": true,
+            "open_peak": true,
+            "inner_line_permit_required": false,
+            "best_months": [
+                "June",
+                "July",
+                "August"
+            ],
+            "typical_duration_days": 24,
+            "nights_above_5000m": 11,
+            "operator_cost_inr_band": [
+                300000,
+                500000
+            ],
+            "bmc_recommended_first_peak": false,
+            "first_6000er_filter_pass": false,
+            "tvt_operated": false,
+            "tvt_url": null,
+            "gpx_available": false,
+            "key_skills": [
+                "7,000m altitude management",
+                "Steep snow and ice",
+                "Long load-ferries"
+            ],
+            "roadhead": "Tangole (Tongul), via Kargil",
+            "basecamp_m": 4900,
+            "basecamp_name": "Nun base",
+            "first_ascent_year": 1953,
+            "first_ascent_party": "Pierre Vittoz and Claude Kogan (Bernard Pierre's French-Swiss-Indian-Sherpa expedition, west ridge, 28 August 1953)",
+            "summary": "7,135m. Premier Indian 7,000er in the Suru Valley above Kargil. First climbed in 1953 by Vittoz and Kogan. Step-up reference, not a first-time objective.",
+            "last_verified": "2026-04-30",
+            "references": [
+                {
+                    "label": "Wikipedia — Nun Kun",
+                    "url": "https://en.wikipedia.org/wiki/Nun_Kun"
+                }
+            ],
+            "hero_image": null
+        },
+        {
+            "id": "kun",
+            "name": "Kun",
+            "alternate_names": [
+                "Mt Kun"
+            ],
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Nun_Kun",
+            "altitude_m": 7077,
+            "range": "Greater Himalayas (Suru Valley)",
+            "region": "Ladakh (Suru Valley)",
+            "country": "India",
+            "district": "Kargil",
+            "nearest_town": "Kargil",
+            "accessible_from": [
+                "Srinagar",
+                "Leh"
+            ],
+            "coordinates": {
+                "lat": 33.9833,
+                "lng": 76.0333
+            },
+            "technical_grade": "AD",
+            "imf_band": "7001+",
+            "imf_royalty_usd_party_of_2": 1000,
+            "imf_listed": true,
+            "open_peak": true,
+            "inner_line_permit_required": false,
+            "best_months": [
+                "June",
+                "July",
+                "August"
+            ],
+            "typical_duration_days": 24,
+            "nights_above_5000m": 11,
+            "operator_cost_inr_band": [
+                280000,
+                460000
+            ],
+            "bmc_recommended_first_peak": false,
+            "first_6000er_filter_pass": false,
+            "tvt_operated": false,
+            "tvt_url": null,
+            "gpx_available": false,
+            "key_skills": [
+                "7,000m altitude management",
+                "Glacier travel",
+                "Long summit day"
+            ],
+            "roadhead": "Tangole (Tongul), via Kargil",
+            "basecamp_m": 4900,
+            "basecamp_name": "Nun-Kun base",
+            "first_ascent_year": 1913,
+            "first_ascent_party": "Mario Piacenza, Italy (north-east ridge)",
+            "summary": "7,077m. Often paired with Nun in expedition planning. First climbed in 1913 by Mario Piacenza — the second ascent did not come until 1971. Step-up reference, not a first-time objective.",
+            "last_verified": "2026-04-30",
+            "references": [
+                {
+                    "label": "Wikipedia — Nun Kun",
+                    "url": "https://en.wikipedia.org/wiki/Nun_Kun"
+                }
+            ],
+            "hero_image": null
+        }
+    ]
+}
