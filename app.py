@@ -13,11 +13,6 @@ def load_data():
         st.error("data/raw_peaks.json not found. Run fetch_data.py first.")
         st.stop()
 
-df = load_data()
-
-st.title("Expedition Peak Explorer")
-st.write("Explore India's popular 6000 m expedition peaks, compare technical grades, estimate costs, and find beginner-friendly objectives.")
-    
 def render_search_filter(df: pd.DataFrame) -> None:
     """Render region/grade/IMF filters and display peak table."""
     region_filter = st.pills("Region", options = sorted(df["region"].unique()), selection_mode="multi")
@@ -118,6 +113,13 @@ def render_closed_peak_notice() -> None:
         "in this list: UT Kangri, Kang Yatse II, Dzo Jongo East, Mentok Kangri II."
     )
 
+df = load_data()
+
+st.title("Expedition Peak Explorer")
+st.write("Explore India's popular 6000 m expedition peaks, compare technical grades, estimate costs, and find beginner-friendly objectives.")
+
+render_closed_peak_notice()    
+
 tab1, tab2, tab3 = st.tabs([
     "Peak Explorer",
     "Readiness",
@@ -131,5 +133,5 @@ with tab2:
 with tab3:
     render_cost_estimate(df)
 
-render_closed_peak_notice()
+
 
