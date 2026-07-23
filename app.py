@@ -16,7 +16,10 @@ def load_data():
 df = load_data()
 
 st.title("Expedition Peak Explorer")
+st.write("Explore India's popular 6000 m expedition peaks, compare technical grades, estimate costs, and find beginner-friendly objectives.")
 
+    
+    
 def render_search_filter(df: pd.DataFrame) -> None:
     """Render region/grade/IMF filters and display peak table."""
     region_filter = st.multiselect("Region", options = sorted(df["region"].unique()))
@@ -41,7 +44,13 @@ def render_search_filter(df: pd.DataFrame) -> None:
 
     imf_only = st.checkbox("IMF-listed peaks only")
 
+    col1, col2, col3 = st.columns(3)
+  
     filtered = df.copy()
+
+    col1.metric("Peaks", len(filtered))
+    col2.metric("Highest Peak", f"{filtered['altitude_m'].max():,.0f} m")
+    col3.metric("IMF Peaks", filtered["imf_listed"].sum())
 
     if region_filter:
         filtered = filtered[filtered["region"].isin(region_filter)]
@@ -76,13 +85,20 @@ def render_cost_estimate(df: pd.DataFrame) -> None:
     peak_row = df[df["name"] == peak_choice].iloc[0]
 
     st.subheader(peak_choice)
-
+    
     basecamp = peak_row["basecamp_m"]
     summit = peak_row["altitude_m"]
 
     low, high = peak_row["operator_cost_inr_band"]
-    st.write(f"**Operator fee:** ₹{low:,} -  ₹{high:,}")
-    st.write(f"**Base camp:** {basecamp:,}m → **Summit:** {summit:,}m")
+    
+    left, right = st.columns(2)
+
+    with left:
+        st.metric(f"**Altitude:**", f"{summit:,} m")
+        st.metric(f"**Base camp:**", f"{basecamp:,} m")
+    with right:
+        st.metric(f"**Operator fee:**", f"₹{low:,} -  ₹{high:,}")
+   
 
     if peak_row["imf_listed"]:
         st.write(f"**IMF royalty (party of 2):** ${peak_row['imf_royalty_usd_party_of_2']:,.0f}")
@@ -104,8 +120,18 @@ def render_closed_peak_notice() -> None:
         "in this list: UT Kangri, Kang Yatse II, Dzo Jongo East, Mentok Kangri II."
     )
 
-render_search_filter(df)
-render_readiness_check(df)
-render_cost_estimate(df)
+tab1, tab2, tab3 = st.tabs([
+    "Peak Explorer",
+    "Readiness",
+    "Cost Estimator"
+])
+
+with tab1:
+    render_search_filter(df)
+with tab2:
+    render_readiness_check(df)
+with tab3:
+    render_cost_estimate(df)
+
 render_closed_peak_notice()
 
