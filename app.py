@@ -21,6 +21,24 @@ def render_search_filter(df: pd.DataFrame) -> None:
     """Render region/grade/IMF filters and display peak table."""
     region_filter = st.multiselect("Region", options = sorted(df["region"].unique()))
     grade_filter = st.multiselect("Technical Grade", options = sorted(df["technical_grade"].unique()))
+
+    grade_help = {
+    "F": "Easy glacier walking and straightforward terrain.",
+    "PD": "Moderate snow and rock. Ice axe, crampons, and rope work required.",
+    "PD+": "More sustained than PD with a few technical sections.",
+    "AD-": "Beginning of serious alpine climbing with continuous exposure.",
+    "AD": "Steep snow, ice, or rock requiring solid technical skills.",
+    "AD+": "Harder crux or longer sustained technical climbing.",
+    "D": "Physically demanding climbing with advanced rope work.",
+    "D+": "Very sustained and technically challenging alpine climbing.",
+    "TD": "Expert-level routes with significant exposure and objective hazards."
+    }
+
+    with st.expander("ℹ️ Technical Grade Guide"):
+        for grade in sorted(df["technical_grade"].unique()):
+            if grade in grade_help:
+                st.markdown(f"**{grade}** : {grade_help[grade]}")
+
     imf_only = st.checkbox("IMF-listed peaks only")
 
     filtered = df.copy()
