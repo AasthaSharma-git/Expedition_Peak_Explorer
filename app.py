@@ -17,13 +17,11 @@ df = load_data()
 
 st.title("Expedition Peak Explorer")
 st.write("Explore India's popular 6000 m expedition peaks, compare technical grades, estimate costs, and find beginner-friendly objectives.")
-
-    
     
 def render_search_filter(df: pd.DataFrame) -> None:
     """Render region/grade/IMF filters and display peak table."""
-    region_filter = st.multiselect("Region", options = sorted(df["region"].unique()))
-    grade_filter = st.multiselect("Technical Grade", options = sorted(df["technical_grade"].unique()))
+    region_filter = st.pills("Region", options = sorted(df["region"].unique()), selection_mode="multi")
+    grade_filter = st.pills("Technical Grade", options = sorted(df["technical_grade"].unique()), selection_mode="multi")
 
     grade_help = {
     "F": "Easy glacier walking and straightforward terrain.",
