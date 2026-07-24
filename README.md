@@ -4,9 +4,9 @@ A Streamlit app to help first-time Himalayan climbers in India explore, filter, 
 
 ## What it does
 
-- **Search & filter** — narrow peaks by region, technical grade, and IMF-listed status.
-- **First 6000er readiness check** — for climbers who've completed a Basic Mountaineering Course (BMC), surfaces peaks flagged as suitable first 6,000ers based on the dataset's own readiness criteria (technical grade ≤ PD+, open peak status, sufficient acclimatization nights, and road access).
-- **Expedition cost estimate** — combines operator fee bands, IMF royalty (where applicable), and Inner Line Permit requirements into a single per-peak cost and permit summary.
+- **Peak Explorer** — search and filter peaks by region and technical grade, with live summary metrics (total peaks, highest altitude, IMF-listed count) and an expandable technical-grade difficulty guide.
+- **Peak Comparison** — compare any two peaks side by side across altitude, technical grade, duration, cost, base camp, roadhead, permits, season, and required skills, with an automated quick-verdict summary (easier climb, cheaper expedition, shorter expedition, higher peak).
+- **Cost Estimator** — combines operator fee bands, IMF royalty (where applicable), and Inner Line Permit requirements into a single per-peak cost and permit summary.
 
 ## Data source
 
@@ -44,7 +44,7 @@ streamlit run app.py
 ## Project structure
 
 ```
-Expedition-Peak-Explorer/
+expedition-peak-explorer/
 ├── data/
 │   └── raw_peaks.json          # cached API response
 ├── notebooks/
